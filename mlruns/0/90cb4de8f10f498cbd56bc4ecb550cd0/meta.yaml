@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Topic%20Modeling%20on%20Customer%20Support%20Tickets/mlruns/0/90cb4de8f10f498cbd56bc4ecb550cd0/artifacts
+end_time: 1759589616500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90cb4de8f10f498cbd56bc4ecb550cd0
+run_name: upset-fish-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759589601431
+status: 3
+tags: []
+user_id: huzaifamahmood

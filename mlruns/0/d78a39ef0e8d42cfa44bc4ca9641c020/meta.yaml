@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Topic%20Modeling%20on%20Customer%20Support%20Tickets/mlruns/0/d78a39ef0e8d42cfa44bc4ca9641c020/artifacts
+end_time: 1759589074179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d78a39ef0e8d42cfa44bc4ca9641c020
+run_name: aged-gnat-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759589059831
+status: 3
+tags: []
+user_id: huzaifamahmood

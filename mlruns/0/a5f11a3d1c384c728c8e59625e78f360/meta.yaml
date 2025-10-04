@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Topic%20Modeling%20on%20Customer%20Support%20Tickets/mlruns/0/a5f11a3d1c384c728c8e59625e78f360/artifacts
+end_time: 1759589687161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5f11a3d1c384c728c8e59625e78f360
+run_name: upset-snail-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759589672620
+status: 3
+tags: []
+user_id: huzaifamahmood
